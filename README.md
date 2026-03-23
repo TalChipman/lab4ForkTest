@@ -1,16 +1,10 @@
-## 👏 Hi, I'm _YOUR_NAME_HERE_!
+## 👏 Hi, I'm _TALIESIN_CHIPMAN!
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+_I am a Cybersecurity major in my first year here at UTSA. This is a career change for me, and I'm really excited about what the future holds. ._
 ## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+My skills include mechanical and electrical troubleshooting, diagnostics, and repair. I like to take things apart and put them back together again. Occasionally they even work after this!
 ## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
+I am very interested in technology of all sorts.
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"your-sample-favorite-quote"_
+_"Good morning gentlemen. This is your wake-up call. - John Sheridan"_

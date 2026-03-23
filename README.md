@@ -9,9 +9,12 @@ My skills include mechanical and electrical troubleshooting, diagnostics, and re
 
 ## 🎉 Interests
 I am very interested in technology of all sorts.
+
 ![Technology](https://img.shields.io/badge/Technology-black)
 
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-violet)](https://github.com/talchipman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cyan)](https://linkedin.com/in/taliesinchipman)
+
+
 _"Good morning gentlemen. This is your wake-up call. - John Sheridan"_

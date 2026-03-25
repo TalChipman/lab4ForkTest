@@ -14,7 +14,7 @@ I am very interested in technology of all sorts.
 
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-violet)](https://github.com/talchipman)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-cyan)](https://linkedin.com/in/taliesinchipman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cyan)](https://linkedin.com/in/taliesin-chipman-88637aa5/)
 
 
 _"Good morning gentlemen. This is your wake-up call. - John Sheridan"_
